@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/rosagas/static/css/main.073c9b0a.css",
-    "main.js": "/rosagas/static/js/main.dd59f817.js",
-    "static/media/camion-rosagas-1.png": "/rosagas/static/media/camion-rosagas-1.7468ecc250ba56c8c423.png",
-    "static/media/camion-rosagas-2.png": "/rosagas/static/media/camion-rosagas-2.0d81bdecddda6109ea6e.png",
-    "static/media/camion-rosagas-3.png": "/rosagas/static/media/camion-rosagas-3.1cb40f9a9b6b7c21ebca.png",
-    "static/media/logo.png": "/rosagas/static/media/logo.670631b6633c02d8f4a2.png",
-    "index.html": "/rosagas/index.html",
-    "main.073c9b0a.css.map": "/rosagas/static/css/main.073c9b0a.css.map",
-    "main.dd59f817.js.map": "/rosagas/static/js/main.dd59f817.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.7b649cb8.js",
+    "static/media/camion-rosagas-1.png": "/static/media/camion-rosagas-1.7468ecc250ba56c8c423.png",
+    "static/media/camion-rosagas-2.png": "/static/media/camion-rosagas-2.0d81bdecddda6109ea6e.png",
+    "static/media/camion-rosagas-3.png": "/static/media/camion-rosagas-3.1cb40f9a9b6b7c21ebca.png",
+    "static/media/logo.png": "/static/media/logo.670631b6633c02d8f4a2.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.7b649cb8.js.map": "/static/js/main.7b649cb8.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.dd59f817.js"
+    "static/js/main.7b649cb8.js"
   ]
 }
