@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.7375b011.js",
+    "main.js": "/static/js/main.72ab1238.js",
     "static/media/camion-rosagas-1.png": "/static/media/camion-rosagas-1.7468ecc250ba56c8c423.png",
     "static/media/camion-rosagas-2.png": "/static/media/camion-rosagas-2.0d81bdecddda6109ea6e.png",
     "static/media/camion-rosagas-3.png": "/static/media/camion-rosagas-3.1cb40f9a9b6b7c21ebca.png",
     "static/media/logo.png": "/static/media/logo.670631b6633c02d8f4a2.png",
     "index.html": "/index.html",
-    "main.7375b011.js.map": "/static/js/main.7375b011.js.map"
+    "main.72ab1238.js.map": "/static/js/main.72ab1238.js.map"
   },
   "entrypoints": [
-    "static/js/main.7375b011.js"
+    "static/js/main.72ab1238.js"
   ]
 }
